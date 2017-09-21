@@ -1,24 +1,36 @@
 package fr.pizzeria.console;
 
 public class Pizza {
+	/** Identifiant de la pizza */
 	protected int id;
+	/** Code de la pizza */
 	protected String code;
+	/** Nom de la pizza */
 	protected String nom;
+	/** Prix de la pizza */
 	protected double prix;
+	/** Compteur pour incrémenter l'id*/
 	protected static int compteur;
 	
+	/** Constructeur 
+	 * @param code code
+	 * @param nom nom
+	 * @param prix prix
+	 * */
 	public Pizza(String code, String nom, double prix) {
 		compteur++;
 		this.id = compteur;
-		this.code = code;
+		this.code = code.toUpperCase();
 		this.nom = nom;
 		this.prix = prix;
 	}
 	
+	/** @Override */
 	public String ToString(){
 		return code + "->" + nom + " (" + prix + "€)";
 	}
 	
+	/** Getters and setters */
 	public int getId() {
 		return id;
 	}
@@ -29,7 +41,7 @@ public class Pizza {
 		return code;
 	}
 	public void setCode(String code) {
-		this.code = code;
+		this.code = code.toUpperCase();
 	}
 	public String getNom() {
 		return nom;
