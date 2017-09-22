@@ -1,5 +1,7 @@
 package fr.pizzeria.console;
 
+import fr.pizzeria.model.CategoriePizza;
+
 public class Pizza {
 	/** Identifiant de la pizza */
 	protected int id;
@@ -12,6 +14,7 @@ public class Pizza {
 	/** Compteur pour incrémenter l'id*/
 	protected static int compteur;
 	
+	protected CategoriePizza categorie;
 	/** Constructeur 
 	 * @param code code
 	 * @param nom nom
@@ -26,10 +29,10 @@ public class Pizza {
 	}
 	
 	/** @Override */
-	public String ToString(){
-		return code + "->" + nom + " (" + prix + "€)";
+	public String toString(){
+		return code + "->" + nom + " (" + prix + "€) " + categorie;
 	}
-	
+
 	/** Getters and setters */
 	public int getId() {
 		return id;
@@ -54,5 +57,19 @@ public class Pizza {
 	}
 	public void setPrix(double prix) {
 		this.prix = prix;
+	}
+
+	/**
+	 * @return the categorie
+	 */
+	public CategoriePizza getCategorie() {
+		return categorie;
+	}
+
+	/**
+	 * @param categorie the categorie to set
+	 */
+	public void setCategorie(CategoriePizza categorie) {
+		this.categorie = categorie;
 	}
 }
