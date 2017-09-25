@@ -1,36 +1,51 @@
 package fr.pizzeria.console;
 
-import fr.pizzeria.model.CategoriePizza;
+import java.lang.reflect.Field;
+import java.util.ArrayList;
+import java.util.List;
+import java.io.Serializable;
+import fr.pizzeria.model.StringUtils;
 
-public class Pizza {
+import fr.pizzeria.model.CategoriePizza;
+import fr.pizzeria.model.ToString;
+
+
+public class Pizza implements Serializable{
 	/** Identifiant de la pizza */
 	protected int id;
 	/** Code de la pizza */
+	@ToString(upperCase=true)
 	protected String code;
 	/** Nom de la pizza */
+	@ToString(upperCase=false)
 	protected String nom;
 	/** Prix de la pizza */
+	@ToString(upperCase=false)
 	protected double prix;
+	/** Categorie de la pizza */
+	@ToString(upperCase=false)
+	protected CategoriePizza categorie;
 	/** Compteur pour incrémenter l'id*/
 	protected static int compteur;
-	
-	protected CategoriePizza categorie;
+
 	/** Constructeur 
 	 * @param code code
 	 * @param nom nom
 	 * @param prix prix
 	 * */
-	public Pizza(String code, String nom, double prix) {
+	public Pizza(String code, String nom, double prix, CategoriePizza categorie) {
 		compteur++;
 		this.id = compteur;
 		this.code = code.toUpperCase();
 		this.nom = nom;
 		this.prix = prix;
+		this.categorie = categorie;
 	}
 	
 	/** @Override */
 	public String toString(){
-		return code + "->" + nom + " (" + prix + "€) " + categorie;
+		String str = StringUtils.convert(this);
+		return str;
 	}
 
 	/** Getters and setters */

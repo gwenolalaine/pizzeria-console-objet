@@ -9,6 +9,7 @@ import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.dao.PizzaDaoImpl;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
+import fr.pizzeria.model.CategoriePizza;
 
 public class AjouterPizzaOptionMenu extends OptionMenu{
 	/**
@@ -32,14 +33,30 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 
 		System.out.println("Veuillez saisir le code");
 		String code = choix.nextLine();
-		if(code.length() != 3){
-			throw new SavePizzaException("Le code doit avoir 3 lettres");
+		if(code.length() < 3){
+			throw new SavePizzaException("Le code doit avoir au moins 3 lettres");
 		}
 		
 		System.out.println("Veuillez saisir le nom (sans espace)");
 		String nom = choix.nextLine();
 		if(nom.trim().isEmpty()){
 			throw new SavePizzaException("Le nom ne doit pas être vide");
+		}
+		
+		System.out.println("Veuillez choisir la catégorie (viande, poisson, sansviande)");
+		String categorieStr = choix.nextLine().toUpperCase().trim();
+		CategoriePizza categorie = null;
+		if(categorieStr.equals("VIANDE")){
+			categorie = CategoriePizza.VIANDE;
+		}
+		else if(categorieStr.equals("POISSON")){
+			categorie = CategoriePizza.POISSON;
+		}
+		else if(categorieStr.equals("SANSVIANDE")){
+			categorie = CategoriePizza.SANS_VIANDE;
+		}
+		else{
+			throw new SavePizzaException("La catégorie doit être soit viande, poisson ou sans viande");
 		}
 			
 		System.out.println("Veuillez saisir le prix");
@@ -52,7 +69,7 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 			
 		double prix = Double.parseDouble(prixStr);
 		
-		dao.saveNewPizza(new Pizza(code, nom, prix));
+		dao.saveNewPizza(new Pizza(code, nom, prix, categorie));
 	}
 	
 	public String getLibelle(){

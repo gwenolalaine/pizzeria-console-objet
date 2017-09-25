@@ -10,4 +10,8 @@ public enum CategoriePizza {
 	CategoriePizza(String categorie){
 		this.categorie = categorie;
 	}
+	
+	public String toString(){
+		return categorie;
+	}
 }

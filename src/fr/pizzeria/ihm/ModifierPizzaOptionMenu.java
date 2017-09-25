@@ -10,6 +10,7 @@ import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.exception.UpdatePizzaException;
+import fr.pizzeria.model.CategoriePizza;
 
 public class ModifierPizzaOptionMenu extends OptionMenu{
 	/**
@@ -38,8 +39,8 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 			System.out.println("Veuillez saisir le code");
 			String code = choix.nextLine();
 			
-			if(code.length() != 3){
-				throw new SavePizzaException("Le code doit avoir 3 lettres");
+			if(code.length() < 3){
+				throw new SavePizzaException("Le code doit avoir au moins 3 lettres");
 			}
 				
 			System.out.println("Veuillez saisir le nom (sans espace)");
@@ -47,6 +48,22 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 			
 			if(nom.trim().isEmpty()){
 				throw new UpdatePizzaException("Le nom ne doit pas être vide");
+			}
+			
+			System.out.println("Veuillez choisir la catégorie (viande, poisson, sansviande)");
+			String categorieStr = choix.nextLine().toUpperCase().trim();
+			CategoriePizza categorie = null;
+			if(categorieStr.equals("VIANDE")){
+				categorie = CategoriePizza.VIANDE;
+			}
+			else if(categorieStr.equals("POISSON")){
+				categorie = CategoriePizza.POISSON;
+			}
+			else if(categorieStr.equals("SANSVIANDE")){
+				categorie = CategoriePizza.SANS_VIANDE;
+			}
+			else{
+				throw new SavePizzaException("La catégorie doit être soit viande, poisson ou sans viande");
 			}
 					
 			System.out.println("Veuillez saisir le prix");
@@ -60,7 +77,7 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 			double prix = Double.parseDouble(prixStr);
 				
 			/** Changer les paramètres de la pizza en question */
-			dao.updatePizza(toChange, new Pizza(code, nom, prix));
+			dao.updatePizza(toChange, new Pizza(code, nom, prix, categorie));
 		}else{
 			throw new UpdatePizzaException("La pizza n'existe pas");
 		}
