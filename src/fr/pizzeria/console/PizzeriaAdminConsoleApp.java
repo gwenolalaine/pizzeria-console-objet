@@ -38,7 +38,7 @@ public class PizzeriaAdminConsoleApp {
 		/** Boolean pour sortir de la boucle */
 		boolean out = false;
 		
-		PizzaDaoImpl dao = new PizzaDaoImpl();
+		PizzaDaoImpl dao = new PizzaDaoImpl()
 		
 		PizzeriaAdminConsoleApp app = new PizzeriaAdminConsoleApp();
 		AjouterPizzaOptionMenu add = new AjouterPizzaOptionMenu(choix, dao);
