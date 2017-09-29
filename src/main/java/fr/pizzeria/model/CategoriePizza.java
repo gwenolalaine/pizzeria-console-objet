@@ -11,6 +11,7 @@ public enum CategoriePizza {
 		this.categorie = categorie;
 	}
 	
+	@Override
 	public String toString(){
 		return categorie;
 	}

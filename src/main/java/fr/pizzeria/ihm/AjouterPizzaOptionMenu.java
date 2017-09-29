@@ -1,13 +1,10 @@
 package fr.pizzeria.ihm;
 
 import java.io.IOException;
-import java.util.InputMismatchException;
-import java.util.List;
 import java.util.Scanner;
 
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.dao.IPizzaDAO;
-import fr.pizzeria.dao.PizzaDaoImpl;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.model.CategoriePizza;
@@ -18,16 +15,16 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 	 */
 	protected Scanner choix;
 	protected IPizzaDAO dao;
-	protected String libelle;
+	protected String lib;
 	
 	public AjouterPizzaOptionMenu(Scanner choix, IPizzaDAO dao){
 		this.choix = choix;
 		this.dao = dao;
-		this.libelle = "2. Ajouter une nouvelle pizza";
+		this.lib = "2. Ajouter une nouvelle pizza";
 	}
 	
 	
-	public void execute() throws InputMismatchException, StockageException, IOException {
+	public void execute() throws StockageException, IOException {
 		/** Choix des paramètres de la pizzas */
 		
 		choix.nextLine();
@@ -73,7 +70,8 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 		dao.saveNewPizza(new Pizza(code, nom, prix, categorie));
 	}
 	
+	@Override
 	public String getLibelle(){
-		return libelle;
+		return lib;
 	}
 }

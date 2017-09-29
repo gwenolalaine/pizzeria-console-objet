@@ -1,6 +1,7 @@
 package fr.pizzeria.dao;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.DeletePizzaException;
@@ -10,7 +11,7 @@ import fr.pizzeria.model.CategoriePizza;
 
 public class PizzaDaoImpl implements IPizzaDAO{
 	
-	ArrayList<Pizza> pizzas = new ArrayList<Pizza>();
+	List<Pizza> pizzas = new ArrayList<>();
 	
 	public PizzaDaoImpl(){
 		/** Ajoute les pizzas dans la liste */
@@ -23,13 +24,12 @@ public class PizzaDaoImpl implements IPizzaDAO{
 		pizzas.add(new Pizza("ORI", "L'orientale", 13.50, CategoriePizza.SANS_VIANDE));
 	}
 	
-	public Pizza[] findAllPizzas(){
+	public List<Pizza> findAllPizzas(){
 		for(int i = 0; i<pizzas.size(); i++){
 			System.out.println(pizzas.get(i));
 		}
-		return null;
-		
-	};
+		return pizzas;
+	}
 	
 	public boolean saveNewPizza (Pizza pizza) throws SavePizzaException {
 		pizzas.add(pizza);
@@ -60,13 +60,15 @@ public class PizzaDaoImpl implements IPizzaDAO{
 	}
 	
 	public boolean pizzaExists(String code){
-		for(int i = 0; i<pizzas.size(); i++){
-			if(!code.equals(pizzas.get(i).getCode())){
-				return false;
-			}else{
+		int i = 0;
+		
+		while(i < pizzas.size()){
+			if((pizzas.get(i).getCode()).equals(code)){
 				return true;
 			}
+			i++;
 		}
+		
 		return false;
 	}
 	

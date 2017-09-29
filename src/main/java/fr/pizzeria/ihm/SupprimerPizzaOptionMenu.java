@@ -1,12 +1,9 @@
 package fr.pizzeria.ihm;
 
 import java.io.IOException;
-import java.util.List;
 import java.util.Scanner;
 
-import fr.pizzeria.console.Pizza;
 import fr.pizzeria.dao.IPizzaDAO;
-import fr.pizzeria.dao.PizzaDaoImpl;
 import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.StockageException;
 
@@ -14,12 +11,12 @@ public class SupprimerPizzaOptionMenu extends OptionMenu {
 
 	protected Scanner choix;
 	protected IPizzaDAO dao;
-	protected String libelle;
+	protected String lib;
 	
 	public SupprimerPizzaOptionMenu(Scanner choix,IPizzaDAO dao){
 		this.choix = choix;
 		this.dao = dao;
-		this.libelle = "4. Supprimer une pizza";
+		this.lib = "4. Supprimer une pizza";
 	}
 	/**
 	 * Supprimer une pizza
@@ -32,7 +29,6 @@ public class SupprimerPizzaOptionMenu extends OptionMenu {
 		try {
 			dao.findAllPizzas();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -46,7 +42,8 @@ public class SupprimerPizzaOptionMenu extends OptionMenu {
 		}
 	}
 	
+	@Override
 	public String getLibelle(){
-		return libelle;
+		return lib;
 	}
 }

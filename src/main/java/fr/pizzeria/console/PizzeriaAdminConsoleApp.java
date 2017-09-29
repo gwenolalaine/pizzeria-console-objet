@@ -2,12 +2,11 @@ package fr.pizzeria.console;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.InputMismatchException;
+import java.util.List;
 import java.util.Scanner;
 
 import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.dao.PizzaDaoImpl;
-import fr.pizzeria.dao.PizzaDaoImplFile;
 import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.ihm.AjouterPizzaOptionMenu;
 import fr.pizzeria.ihm.ModifierPizzaOptionMenu;
@@ -23,21 +22,16 @@ import fr.pizzeria.ihm.SupprimerPizzaOptionMenu;
  */
 public class PizzeriaAdminConsoleApp {
 	/** Liste de pizzas */
-	static ArrayList<Pizza> pizzas = new ArrayList<Pizza>();
+	static List<Pizza> pizzas = new ArrayList<>();
 	/** Instance du scanner */
 	static Scanner choix = new Scanner(System.in);
 	
-	public static void main(String[] args) throws StockageException, InputMismatchException, IOException{
-		// TODO Auto-generated method stub
-			
-		
-		
+	public static void main(String[] args) throws StockageException, IOException{
 		/** Boolean pour sortir de la boucle */
 		boolean out = false;
 		
 		IPizzaDAO dao = new PizzaDaoImpl();
 		
-		PizzeriaAdminConsoleApp app = new PizzeriaAdminConsoleApp();
 		AjouterPizzaOptionMenu add = new AjouterPizzaOptionMenu(choix, dao);
 		ModifierPizzaOptionMenu update = new ModifierPizzaOptionMenu(choix, dao);
 		SupprimerPizzaOptionMenu delete = new SupprimerPizzaOptionMenu(choix, dao);
@@ -45,7 +39,7 @@ public class PizzeriaAdminConsoleApp {
 		
 		
 		/** Boucle du scanner */
-		while(out == false){
+		while(!out){
 			/** Liste des intructions pour l'utilisateurs */
 			System.out.println("***** Pizzeria Administration *****\r");
 			System.out.println("1. Lister les pizzas");
