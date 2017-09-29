@@ -30,4 +30,23 @@
     </plugin>
   </plugins>
   </build>
+  
+  <profiles>
+    <profile>
+      <id>Filereading</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <properties>
+        <mode>PizzaDaoImplFile</mode>
+      </properties>
+    </profile>
+    <profile>
+      <id>Classique</id>
+      <properties>
+        <mode>PizzaDaoImpl</mode>
+      </properties>
+    </profile>
+  </profiles>
+  
 </project>
