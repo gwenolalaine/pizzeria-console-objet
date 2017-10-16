@@ -1,9 +1,7 @@
 package fr.pizzeria.ihm;
 
 import java.io.IOException;
-import java.util.InputMismatchException;
 
-import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
 
 public abstract class OptionMenu {
@@ -14,5 +12,5 @@ public abstract class OptionMenu {
 		return libelle;
 	}
 	
-	public abstract void execute() throws StockageException, InputMismatchException, IOException;
+	public abstract void execute() throws StockageException, IOException;
 }

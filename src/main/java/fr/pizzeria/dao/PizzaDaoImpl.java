@@ -1,6 +1,9 @@
 package fr.pizzeria.dao;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.DeletePizzaException;
@@ -10,7 +13,7 @@ import fr.pizzeria.model.CategoriePizza;
 
 public class PizzaDaoImpl implements IPizzaDAO{
 	
-	ArrayList<Pizza> pizzas = new ArrayList<Pizza>();
+	List<Pizza> pizzas = new ArrayList<>();
 	
 	public PizzaDaoImpl(){
 		/** Ajoute les pizzas dans la liste */
@@ -23,51 +26,45 @@ public class PizzaDaoImpl implements IPizzaDAO{
 		pizzas.add(new Pizza("ORI", "L'orientale", 13.50, CategoriePizza.SANS_VIANDE));
 	}
 	
-	public Pizza[] findAllPizzas(){
-		for(int i = 0; i<pizzas.size(); i++){
-			System.out.println(pizzas.get(i));
-		}
-		return null;
-		
-	};
+	@Override
+	public List<Pizza> findAllPizzas(){
+		return pizzas;
+	}
 	
+	@Override
 	public boolean saveNewPizza (Pizza pizza) throws SavePizzaException {
 		pizzas.add(pizza);
 		return true;
 	}
 	
+	@Override
 	public boolean updatePizza(String codePizza, Pizza pizza) throws UpdatePizzaException {
-		for(int i = 0; i<pizzas.size(); i++){
-			if(codePizza.equals(pizzas.get(i).getCode())){
-				pizzas.get(i).setCode(pizza.getCode());
-				pizzas.get(i).setNom(pizza.getNom());
-				
-				pizzas.get(i).setPrix(pizza.getPrix());
-				return true;
-			}
-		}
+		pizzas.stream().filter(p->p.getCode().equalsIgnoreCase(codePizza))
+				.map(p->{
+					p.setCode(pizza.getCode().toUpperCase());
+					p.setNom(pizza.getNom());
+					p.setPrix(pizza.getPrix());
+					p.setCategorie(pizza.getCategorie());
+					return Stream.of(p);
+				})
+				.collect(Collectors.toList());
+		
 		return false;
 	}
 	
+	@Override
 	public boolean deletePizza(String codePizza) throws DeletePizzaException {
-		for(int i = 0; i<pizzas.size(); i++){
-			if(codePizza.equals(pizzas.get(i).getCode())){
-				pizzas.remove(pizzas.get(i));
-				return true;
-			}
-		}
+		List<Pizza> toDelete = pizzas.stream().filter(p->p.getCode().equalsIgnoreCase(codePizza)).collect(Collectors.toList());
+		
+		pizzas.removeAll(toDelete);
+		
 		return false;
 	}
 	
+	@Override
 	public boolean pizzaExists(String code){
-		for(int i = 0; i<pizzas.size(); i++){
-			if(!code.equals(pizzas.get(i).getCode())){
-				return false;
-			}else{
-				return true;
-			}
-		}
-		return false;
+		return pizzas.stream().anyMatch(p->p.getCode().equals(code));
+		
 	}
 	
 	}

@@ -1,8 +1,5 @@
 package fr.pizzeria.console;
 
-import java.lang.reflect.Field;
-import java.util.ArrayList;
-import java.util.List;
 import java.io.Serializable;
 import fr.pizzeria.model.StringUtils;
 
@@ -42,10 +39,17 @@ public class Pizza implements Serializable{
 		this.categorie = categorie;
 	}
 	
+	public Pizza(int id, String code, String nom, double prix, CategoriePizza categorie) {
+		this.id = id;
+		this.code = code.toUpperCase();
+		this.nom = nom;
+		this.prix = prix;
+		this.categorie = categorie;
+	}
+	
 	/** @Override */
 	public String toString(){
-		String str = StringUtils.convert(this);
-		return str;
+		return StringUtils.convert(this);
 	}
 
 	/** Getters and setters */
