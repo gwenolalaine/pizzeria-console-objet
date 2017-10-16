@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
-
 import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.dao.PizzaDaoImpl;
 import fr.pizzeria.dao.PizzaDaoImplFile;
@@ -40,7 +38,7 @@ public class PizzeriaAdminConsoleApp {
 		/** Boolean pour sortir de la boucle */
 		boolean out = false;
 		
-		IPizzaDAO dao = new PizzaDaoImpl()
+		IPizzaDAO dao = new PizzaDaoImpl();
 		
 		PizzeriaAdminConsoleApp app = new PizzeriaAdminConsoleApp();
 		AjouterPizzaOptionMenu add = new AjouterPizzaOptionMenu(choix, dao);
