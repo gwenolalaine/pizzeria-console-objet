@@ -3,12 +3,17 @@ package fr.pizzeria.ihm;
 import java.io.IOException;
 import java.util.Scanner;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.StockageException;
 
 public class SupprimerPizzaOptionMenu extends OptionMenu {
-
+	/** LOG Logger */
+	private static final Logger LOG = LoggerFactory.getLogger(AjouterPizzaOptionMenu.class);
+	
 	protected Scanner choix;
 	protected IPizzaDAO dao;
 	protected String lib;
@@ -25,11 +30,11 @@ public class SupprimerPizzaOptionMenu extends OptionMenu {
 	public void execute() throws StockageException{
 		/** Choix de la pizza à supprimer */
 		choix.nextLine();
-		System.out.println("Choisir le code de la pizza à supprimer");
+		LOG.info("Choisir le code de la pizza à supprimer");
 		try {
 			dao.findAllPizzas();
 		} catch (IOException e) {
-			e.printStackTrace();
+			LOG.error(e.getMessage());
 		}
 		
 		String toChange = choix.nextLine().toUpperCase();

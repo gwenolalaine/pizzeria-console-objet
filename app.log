@@ -1,0 +1,2120 @@
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+POP plop 14.0 Poisson 
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+NON nope 15.0 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+POP plop 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: ""
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: ""
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+NON nope 15.0 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+POP plop 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+POP plop 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: ""
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+CAN La cannibale 12.5 Viande 
+SAV La savoyarde 13.0 Viande 
+ORI L'orientale 13.5 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mysql.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.jdbc.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+com.mysql.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+org.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+org.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+org.mariadb.Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+org/mariadb//jdbc/Driver
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Could not connect: Access denied for user ''@'localhost' to database 'pizzeria'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Unknown column 'CategoriePizza.VIANDE' in 'field list'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+Query is:
+INSERT INTO pizza(code, name, prix, categorie) VALUES('FRO', 'La 4 fromages', 12.00, 'SANS_VIANDE'))
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Query is:
+INSERT INTO pizza(code, name, prix, categorie) VALUES('MAR', 'Margherita', 14.00, 'POISSON'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Could not connect to localhost:3606 : Connection refused: connect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Query is:
+sql : 'INSERT into pizza(code, nom, prix, categorie) values (?, ?, ?, ?', parameters : ['POP','ploup',14.0,'Poisson']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+Unknown column 'nom' in 'field list'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+6
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+You need to set exactly 5 parameters on the prepared statement
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+Unknown column 'nom' in 'field list'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PEP Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+0 Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: "REIN"
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+Could not set parameter
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 Pépéroni 12.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+FRO La 4 fromages 12.0 Sans viande 
+PLOUP ploup 15.0 Poisson 
+POUP plop 15.0 Viande 
+POUP plop 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+Could not set parameter
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MAR Margherita 14.0 Poisson 
+REIN La Reine 11.5 Viande 
+MAR Margherita 14.0 Poisson 
+0 La Reine 11.5 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: ""
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MAR Margherita 14.0 Poisson 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+Could not set parameter
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MAR Margherita 14.0 Poisson 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+MAR Margherita 14.0 Poisson 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE code='MAR'' at line 1
+Query is:
+sql : 'DELETE pizza WHERE code=?', parameters : ['MAR']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE code = 'MAR'' at line 1
+Query is:
+sql : 'DELETE pizza WHERE code = ?', parameters : ['MAR']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+Could not set parameter
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE code = 'MAR'' at line 1
+Query is:
+sql : 'DELETE pizza WHERE code = ?', parameters : ['MAR']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MAR Margherita 14.0 Poisson 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM PIZZA SET code='MOP' AND name = 'moppo' AND prix = 15.0 AND categorie = 'VI' at line 1
+Query is:
+sql : 'UPDATE FROM PIZZA SET code=? AND name = ? AND prix = ? AND categorie = ? WHERE code=?', parameters : ['MOP','moppo',15.0,'VIANDE','PLOP']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM PIZZA SET code='MOP', name = 'mopopo', prix = 15.0, categorie = 'VIANDE' WH' at line 1
+Query is:
+sql : 'UPDATE FROM PIZZA SET code=?, name = ?, prix = ?, categorie = ? WHERE code=?', parameters : ['MOP','mopopo',15.0,'VIANDE','PLOP']
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+PLOP ploporoni 15.0 Viande 
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+0 La Reine 11.5 Viande 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+RONE ronono 15.0 Poisson 
+MOP plopoooo 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+RONE ronono 15.0 Poisson 
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+RONE ronono 15.0 Poisson 
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+RONE ronono 15.0 Poisson 
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+execute() is called on closed connection
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+RONE ronono 15.0 Poisson 
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+execute() is called on closed connection
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+Unknown column 'RONE' in 'where clause'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+DELETE FROM pizza WHERE code=RONE
+Unknown column 'RONE' in 'where clause'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+DELETE FROM pizza WHERE code="RONE"
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE PIZZA SET code="MOUP",name = "nom",prix ="15.0",categorie = ?"Viande"WHERE code="MOP",
+You need to set exactly 1 parameters on the prepared statement
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: "."
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE PIZZA SET code="MOUP",name = "moumou",prix ="15.0",categorie ="Viande"WHERE code="MOP",
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Query is:
+sql : 'UPDATE PIZZA SET code="MOUP",name = "moumou",prix ="15.0",categorie ="Viande"WHERE code="MOP",'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE PIZZA SET code="MOUP",name = "momop",prix ="15.0",categorie ="Viande" WHERE code="MOP",
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Query is:
+sql : 'UPDATE PIZZA SET code="MOUP",name = "momop",prix ="15.0",categorie ="Viande" WHERE code="MOP",'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE pizza SET code=" MOUP", name = " moupmoup", prix =" 15.0", categorie =" Viande"  WHERE code=" MOP"
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOP plopoooo 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE pizza SET code='MOUP', 'name = 'momup', prix = '15.0', categorie = 'Viande' WHERE code= 'MOP'
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''name = 'momup', prix = '15.0', categorie = 'Viande' WHERE code= 'MOP'' at line 1
+Query is:
+sql : 'UPDATE pizza SET code='MOUP', 'name = 'momup', prix = '15.0', categorie = 'Viande' WHERE code= 'MOP''
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE pizza SET code='MOUP', name = 'moupou', prix = '15.0', categorie = 'Viande' WHERE code= 'MOP'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+MOUP moupou 15.0 Viande 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+UPDATE pizza SET code='LOL', name = 'loup', prix = '18.0', categorie = 'POISSON' WHERE code= 'MOUP'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+INSERT into pizza(code, name, prix, categorie) values ('BOLO'bolognaise'15.0'VIANDE')
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'bolognaise'15.0'VIANDE')' at line 1
+Query is:
+sql : 'INSERT into pizza(code, name, prix, categorie) values ('BOLO'bolognaise'15.0'VIANDE')'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+INSERT into pizza(code, name, prix, categorie) values ('BOLO','bolognaise','15.0','VIANDE')
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+BOLO bolognaise 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: ""
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir

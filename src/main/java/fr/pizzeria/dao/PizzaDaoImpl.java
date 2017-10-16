@@ -5,9 +5,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.SavePizzaException;
@@ -15,8 +12,6 @@ import fr.pizzeria.exception.UpdatePizzaException;
 import fr.pizzeria.model.CategoriePizza;
 
 public class PizzaDaoImpl implements IPizzaDAO{
-	
-	private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoImpl.class);
 	
 	List<Pizza> pizzas = new ArrayList<>();
 	
@@ -33,7 +28,6 @@ public class PizzaDaoImpl implements IPizzaDAO{
 	
 	@Override
 	public List<Pizza> findAllPizzas(){
-		pizzas.stream().forEach(p->LOG.info(p.toString()));
 		return pizzas;
 	}
 	

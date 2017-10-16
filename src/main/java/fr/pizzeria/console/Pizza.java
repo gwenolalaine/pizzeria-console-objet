@@ -39,6 +39,14 @@ public class Pizza implements Serializable{
 		this.categorie = categorie;
 	}
 	
+	public Pizza(int id, String code, String nom, double prix, CategoriePizza categorie) {
+		this.id = id;
+		this.code = code.toUpperCase();
+		this.nom = nom;
+		this.prix = prix;
+		this.categorie = categorie;
+	}
+	
 	/** @Override */
 	public String toString(){
 		return StringUtils.convert(this);

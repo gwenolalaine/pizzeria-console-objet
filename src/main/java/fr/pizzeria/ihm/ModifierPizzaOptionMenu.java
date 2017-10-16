@@ -3,6 +3,9 @@ package fr.pizzeria.ihm;
 import java.io.IOException;
 import java.util.Scanner;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.exception.SavePizzaException;
@@ -11,6 +14,9 @@ import fr.pizzeria.exception.UpdatePizzaException;
 import fr.pizzeria.model.CategoriePizza;
 
 public class ModifierPizzaOptionMenu extends OptionMenu{
+	
+	/** LOG Logger */
+	private static final Logger LOG = LoggerFactory.getLogger(ModifierPizzaOptionMenu.class);
 	/**
 	 * Mise à jour d'une pizza
 	 */
@@ -27,32 +33,32 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 	public void execute() throws StockageException{
 		/** Choix de la pizza à update */
 		choix.nextLine();
-		System.out.println("Choisir le code de la pizza à modifier");
+		LOG.info("Choisir le code de la pizza à modifier");
 		try {
 			dao.findAllPizzas();
 		} catch (IOException e) {
-			e.printStackTrace();
+			LOG.error(e.getMessage());
 		}
 		
 		String toChange = choix.nextLine().toUpperCase();
 		
 		if(dao.pizzaExists(toChange)){
 			/** Choix des paramètres de la pizza*/
-			System.out.println("Veuillez saisir le code");
+			LOG.info("Veuillez saisir le code");
 			String code = choix.nextLine();
 			
 			if(code.length() < 3){
 				throw new SavePizzaException("Le code doit avoir au moins 3 lettres");
 			}
 				
-			System.out.println("Veuillez saisir le nom (sans espace)");
+			LOG.info("Veuillez saisir le nom (sans espace)");
 			String nom = choix.nextLine();
 			
 			if(nom.trim().isEmpty()){
 				throw new UpdatePizzaException("Le nom ne doit pas être vide");
 			}
 			
-			System.out.println("Veuillez choisir la catégorie (viande, poisson, sansviande)");
+			LOG.info("Veuillez choisir la catégorie (viande, poisson, sansviande)");
 			String categorieStr = choix.nextLine().toUpperCase().trim();
 			CategoriePizza categorie = null;
 			if(categorieStr.equals("VIANDE")){
@@ -68,7 +74,7 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 				throw new SavePizzaException("La catégorie doit être soit viande, poisson ou sans viande");
 			}
 					
-			System.out.println("Veuillez saisir le prix");
+			LOG.info("Veuillez saisir le prix");
 			
 			String prixStr = choix.nextLine();
 					
