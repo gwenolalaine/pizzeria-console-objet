@@ -49,15 +49,15 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 		
 		LOG.info("Veuillez choisir la catégorie (viande, poisson, sansviande)");
 		String categorieStr = choix.nextLine().toUpperCase().trim();
-		CategoriePizza categorie = null;
+		int categorie = 0;
 		if(categorieStr.equals("VIANDE")){
-			categorie = CategoriePizza.VIANDE;
+			categorie = 1;
 		}
 		else if(categorieStr.equals("POISSON")){
-			categorie = CategoriePizza.POISSON;
+			categorie = 3;
 		}
 		else if(categorieStr.equals("SANSVIANDE")){
-			categorie = CategoriePizza.SANS_VIANDE;
+			categorie = 2;
 		}
 		else{
 			throw new SavePizzaException("La catégorie doit être soit viande, poisson ou sans viande");

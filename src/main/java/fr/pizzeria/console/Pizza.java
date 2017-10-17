@@ -2,7 +2,7 @@ package fr.pizzeria.console;
 
 import java.io.Serializable;
 import fr.pizzeria.model.StringUtils;
-
+import fr.pizzeria.model.Categorie;
 import fr.pizzeria.model.CategoriePizza;
 import fr.pizzeria.model.ToString;
 
@@ -19,32 +19,36 @@ public class Pizza implements Serializable{
 	/** Prix de la pizza */
 	@ToString(upperCase=false)
 	protected double prix;
-	/** Categorie de la pizza */
-	@ToString(upperCase=false)
-	protected CategoriePizza categorie;
+	/** Id de categorie de la pizza */
+	protected int categorie;
 	/** Compteur pour incrémenter l'id*/
 	protected static int compteur;
-
+	/**Categorie de pizza*/
+	@ToString(upperCase=true)
+	protected String categoriePizza;
+	
 	/** Constructeur 
 	 * @param code code
 	 * @param nom nom
 	 * @param prix prix
 	 * */
-	public Pizza(String code, String nom, double prix, CategoriePizza categorie) {
+	public Pizza(String code, String nom, double prix, int categorie) {
 		compteur++;
 		this.id = compteur;
 		this.code = code.toUpperCase();
 		this.nom = nom;
 		this.prix = prix;
 		this.categorie = categorie;
+		this.categoriePizza = new Categorie(this.categorie).getType().toString();
 	}
 	
-	public Pizza(int id, String code, String nom, double prix, CategoriePizza categorie) {
+	public Pizza(int id, String code, String nom, double prix, int categorie) {
 		this.id = id;
 		this.code = code.toUpperCase();
 		this.nom = nom;
 		this.prix = prix;
 		this.categorie = categorie;
+		this.categoriePizza = new Categorie(this.categorie).getType().toString();
 	}
 	
 	/** @Override */
@@ -81,14 +85,30 @@ public class Pizza implements Serializable{
 	/**
 	 * @return the categorie
 	 */
-	public CategoriePizza getCategorie() {
+	public int getCategorie() {
 		return categorie;
 	}
 
 	/**
 	 * @param categorie the categorie to set
 	 */
-	public void setCategorie(CategoriePizza categorie) {
+	public void setCategorie(int categorie) {
 		this.categorie = categorie;
 	}
+
+	/**
+	 * @return the categoriePizza
+	 */
+	public String getCategoriePizza() {
+		return categoriePizza.toString();
+	}
+
+	/**
+	 * @param categoriePizza the categoriePizza to set
+	 */
+	public void setCategoriePizza(String categoriePizza) {
+		this.categoriePizza = new Categorie(this.categorie).getType().toString();
+	}
+	
+	
 }

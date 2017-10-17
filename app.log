@@ -2118,3 +2118,278 @@ For input string: ""
 3. Mettre à jour une pizza
 4. Supprimer une pizza
 99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+BOLO bolognaise 15.0 Viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+INSERT into pizza(code, name, prix, categorie) values ('CARBO','Carbonara','18.0','POISSON')
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+BOLO bolognaise 15.0 Viande 
+CARBO Carbonara 18.0 Poisson 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+BOLO bolognaise 15.0 Viande 
+CARBO Carbonara 18.0 Poisson 
+VEG Vegetarienne 14.0 Sans_viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+LOL loup 18.0 Poisson 
+POUP poupou 14.0 Poisson 
+BOLO bolognaise 15.0 Viande 
+CARBO Carbonara 18.0 Poisson 
+VEG Vegetarienne 14.0 Sans_viande 
+RAT ratatouille 15.0 Sans_viande 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+Unknown column 'categorie' in 'field list'
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+No such column :categorie
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+Cannot add or update a child row: a foreign key constraint fails (`pizzeria`.`pizza`, CONSTRAINT `fk_categorie` FOREIGN KEY (`categorieID`) REFERENCES `categorie` (`id`))
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 
+BOLO bolognaise 16.0 1 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 
+BOLO bolognaise 16.0 1 
+CARBO carbonara 17.0 3 
+VEGET vegetarienne 18.0 2 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Could not connect to localhost:3306 : Connection refused: connect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 
+BOLO bolognaise 16.0 1 
+CARBO carbonara 17.0 3 
+VEGET vegetarienne 18.0 2 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 
+BOLO bolognaise 16.0 1 
+CARBO carbonara 17.0 3 
+VEGET vegetarienne 18.0 2 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 
+BOLO bolognaise 16.0 1 
+CARBO carbonara 17.0 3 
+VEGET vegetarienne 18.0 2 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 1 VIANDE 
+BOLO bolognaise 16.0 1 VIANDE 
+CARBO carbonara 17.0 3 POISSON 
+VEGET vegetarienne 18.0 2 SANS_VIANDE 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir

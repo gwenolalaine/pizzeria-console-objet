@@ -3,7 +3,7 @@ package fr.pizzeria.model;
 public enum CategoriePizza {
 	VIANDE ("Viande"),
 	POISSON ("Poisson"),
-	SANS_VIANDE ("Sans viande");
+	SANS_VIANDE ("Sans_viande");
 	
 	String categorie;
 	

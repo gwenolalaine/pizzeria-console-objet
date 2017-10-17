@@ -19,6 +19,7 @@ import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.UpdatePizzaException;
+import fr.pizzeria.model.Categorie;
 import fr.pizzeria.model.CategoriePizza;
 
 public class PizzaDaoJDBC implements IPizzaDAO{
@@ -58,8 +59,7 @@ private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoJDBC.class);
 						String code = resultats.get().getString("code");
 						String name = resultats.get().getString("name");
 						Double price = resultats.get().getDouble("prix");
-						String categorieStr = resultats.get().getString("categorie");
-						CategoriePizza categorie = CategoriePizza.valueOf(categorieStr);
+						int categorie = resultats.get().getInt("categorieID");
 						pizzas.add(new Pizza(code, name, price, categorie));
 					}
 		
@@ -91,15 +91,14 @@ private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoJDBC.class);
 	
 	@Override
 	public boolean saveNewPizza (Pizza pizza) throws SavePizzaException {
-		
-		return execute("INSERT into pizza(code, name, prix, categorie) values ('" + pizza.getCode() + "','" + pizza.getNom() + "','" 
-				+ pizza.getPrix() + "','" + pizza.getCategorie().toString().toUpperCase() + "')");
+		return execute("INSERT into pizza(code, name, prix, categorieID) values ('" + pizza.getCode() + "','" + pizza.getNom() + "','" 
+				+ pizza.getPrix() + "','" + pizza.getCategorie() + "')");
 	}
 	
 	@Override
 	public boolean updatePizza(String codePizza, Pizza pizza) throws UpdatePizzaException {
-		return execute("UPDATE pizza SET code='" + pizza.getCode() + "', name = '" + pizza.getNom()  + "', prix = '" + pizza.getPrix() + "', categorie = '"  
-					+ pizza.getCategorie().toString().toUpperCase() + "' WHERE code= '" + codePizza  + "'");
+		return execute("UPDATE pizza SET code='" + pizza.getCode() + "', name = '" + pizza.getNom()  + "', prix = '" + pizza.getPrix() + "', categorieID = '"  
+					+ pizza.getCategorie() + "' WHERE code= '" + codePizza  + "'");
 	}
 	
 	@Override
@@ -115,7 +114,6 @@ private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoJDBC.class);
 			if(myConnection.isPresent()){
 				PreparedStatement statement = null;
 				statement = myConnection.get().prepareStatement(request);
-				LOG.info(request);
 				statement.executeUpdate();
 				
 				statement.close();
