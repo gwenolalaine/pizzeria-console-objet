@@ -5,29 +5,33 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.UpdatePizzaException;
-import fr.pizzeria.model.CategoriePizza;
+import fr.pizzeria.model.Categorie;
 
 public class PizzaDaoImpl implements IPizzaDAO{
 	
 	List<Pizza> pizzas = new ArrayList<>();
+	/** LOG Logger */
+	private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoImpl.class);
 	
 	public PizzaDaoImpl(){
 		/** Ajoute les pizzas dans la liste */
 		try {
-			saveNewPizza(new Pizza("PEP", "Pépéroni", 12.50, 1));
-			saveNewPizza(new Pizza("MAR", "Margherita", 14.00, 3));
-			saveNewPizza(new Pizza("REIN", "La Reine", 11.50, 1));
-			saveNewPizza(new Pizza("FRO", "La 4 fromages", 12.00, 2));
-			saveNewPizza(new Pizza("CAN", "La cannibale", 12.50, 1));
-			saveNewPizza(new Pizza("SAV", "La savoyarde", 13.00, 1));
-			saveNewPizza(new Pizza("ORI", "L'orientale", 13.50, 2));
+			saveNewPizza(new Pizza("PEP", "Pépéroni", 12.50, new Categorie(1)));
+			saveNewPizza(new Pizza("MAR", "Margherita", 14.00, new Categorie(3)));
+			saveNewPizza(new Pizza("REIN", "La Reine", 11.50, new Categorie(1)));
+			saveNewPizza(new Pizza("FRO", "La 4 fromages", 12.00, new Categorie(2)));
+			saveNewPizza(new Pizza("CAN", "La cannibale", 12.50, new Categorie(1)));
+			saveNewPizza(new Pizza("SAV", "La savoyarde", 13.00, new Categorie(1)));
+			saveNewPizza(new Pizza("ORI", "L'orientale", 13.50, new Categorie(2)));
 		} catch (SavePizzaException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			LOG.error(e.getMessage());
 		}
 		
 	}
@@ -71,6 +75,10 @@ public class PizzaDaoImpl implements IPizzaDAO{
 	public boolean pizzaExists(String code){
 		return pizzas.stream().anyMatch(p->p.getCode().equals(code));
 		
+	}
+	
+	public Categorie findCategorieById(int categorie){
+		return new Categorie(categorie);
 	}
 	
 	}

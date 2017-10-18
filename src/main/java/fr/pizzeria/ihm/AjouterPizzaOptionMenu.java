@@ -10,7 +10,7 @@ import fr.pizzeria.console.Pizza;
 import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
-import fr.pizzeria.model.CategoriePizza;
+import fr.pizzeria.model.Categorie;
 
 public class AjouterPizzaOptionMenu extends OptionMenu{
 	
@@ -73,7 +73,8 @@ public class AjouterPizzaOptionMenu extends OptionMenu{
 			
 		double prix = Double.parseDouble(prixStr);
 		
-		dao.saveNewPizza(new Pizza(code, nom, prix, categorie));
+		Categorie categ = dao.findCategorieById(categorie);
+		dao.saveNewPizza(new Pizza(code, nom, prix, categ));
 	}
 	
 	@Override

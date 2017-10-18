@@ -2393,3 +2393,914 @@ VEGET vegetarienne 18.0 2 SANS_VIANDE
 3. Mettre à jour une pizza
 4. Supprimer une pizza
 99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 VIANDE 
+BOLO bolognaise 16.0 VIANDE 
+CARBO carbonara 17.0 POISSON 
+VEGET vegetarienne 18.0 SANS_VIANDE 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 VIANDE 
+BOLO bolognaise 16.0 VIANDE 
+CARBO carbonara 17.0 POISSON 
+VEGET vegetarienne 18.0 SANS_VIANDE 
+REIN reine 14.0 VIANDE 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'pizza0_.categorie' in 'field list'
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'pizza0_.categorie' in 'field list'
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'pizza0_.categorie' in 'field list'
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'pizza0_.categorie' in 'field list'
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'pizza0_.categoriePizza' in 'field list'
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+HHH000397: Using ASTQueryTranslatorFactory
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+HHH000397: Using ASTQueryTranslatorFactory
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+HHH000397: Using ASTQueryTranslatorFactory
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+La pizza n'existe pas
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à modifier
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+For input string: "*1"
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Choisir le code de la pizza à supprimer
+HHH000397: Using ASTQueryTranslatorFactory
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000204: Processing PersistenceUnitInfo [
+	name: pizzeria
+	...]
+HHH000412: Hibernate Core {5.1.0.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+HHH10001005: using driver [org.mariadb.jdbc.Driver] at URL [jdbc:mariadb://localhost:3306/pizzeria]
+HHH10001001: Connection properties: {user=root}
+HHH10001003: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+HHH000397: Using ASTQueryTranslatorFactory
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+Veuillez saisir le code
+Veuillez saisir le nom (sans espace)
+Veuillez choisir la catégorie (viande, poisson, sansviande)
+Veuillez saisir le prix
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir
+PIZ pizza 14.0 
+BOLO bolognaise 16.0 
+CARBO carbonara 17.0 
+VEGET vegetarienne 18.0 
+REIN reine 14.0 
+***** Pizzeria Administration *****
+1. Lister les pizzas
+2. Ajouter une nouvelle pizza
+3. Mettre à jour une pizza
+4. Supprimer une pizza
+99. Sortir

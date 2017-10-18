@@ -5,6 +5,7 @@ import java.util.List;
 
 import fr.pizzeria.console.Pizza;
 import fr.pizzeria.exception.StockageException;
+import fr.pizzeria.model.Categorie;
 
 public interface IPizzaDAO {
 	List<Pizza> findAllPizzas() throws IOException;
@@ -12,4 +13,5 @@ public interface IPizzaDAO {
 	boolean updatePizza(String codePizza, Pizza pizza) throws StockageException;
 	boolean deletePizza(String codePizza) throws StockageException;
 	boolean pizzaExists(String toChange);
+	Categorie findCategorieById(int categorie);
 }

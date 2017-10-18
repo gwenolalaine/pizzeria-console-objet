@@ -11,7 +11,7 @@ import fr.pizzeria.dao.IPizzaDAO;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.exception.UpdatePizzaException;
-import fr.pizzeria.model.CategoriePizza;
+import fr.pizzeria.model.Categorie;
 
 public class ModifierPizzaOptionMenu extends OptionMenu{
 	
@@ -85,7 +85,8 @@ public class ModifierPizzaOptionMenu extends OptionMenu{
 			double prix = Double.parseDouble(prixStr);
 				
 			/** Changer les paramètres de la pizza en question */
-			dao.updatePizza(toChange, new Pizza(code, nom, prix, categorie));
+			Categorie categ = dao.findCategorieById(categorie);
+			dao.updatePizza(toChange, new Pizza(code, nom, prix, categ));
 		}else{
 			throw new UpdatePizzaException("La pizza n'existe pas");
 		}

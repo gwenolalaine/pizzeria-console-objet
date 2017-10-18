@@ -20,7 +20,6 @@ import fr.pizzeria.exception.DeletePizzaException;
 import fr.pizzeria.exception.SavePizzaException;
 import fr.pizzeria.exception.UpdatePizzaException;
 import fr.pizzeria.model.Categorie;
-import fr.pizzeria.model.CategoriePizza;
 
 public class PizzaDaoJDBC implements IPizzaDAO{
 	
@@ -60,7 +59,7 @@ private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoJDBC.class);
 						String name = resultats.get().getString("name");
 						Double price = resultats.get().getDouble("prix");
 						int categorie = resultats.get().getInt("categorieID");
-						pizzas.add(new Pizza(code, name, price, categorie));
+						pizzas.add(new Pizza(code, name, price, new Categorie(categorie)));
 					}
 		
 					resultats.get().close();
@@ -132,5 +131,10 @@ private static final Logger LOG = LoggerFactory.getLogger(PizzaDaoJDBC.class);
 		return pizzas.stream().anyMatch(p->p.getCode().equals(code));
 		
 	}
+	
+	public Categorie findCategorieById(int categorie){
+		return new Categorie(categorie);
+	}
+	
 
 }

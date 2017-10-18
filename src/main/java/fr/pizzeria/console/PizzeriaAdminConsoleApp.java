@@ -11,7 +11,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import fr.pizzeria.dao.IPizzaDAO;
-import fr.pizzeria.dao.PizzaDaoJDBC;
+import fr.pizzeria.dao.PizzaDaoJPA;
 import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.ihm.AjouterPizzaOptionMenu;
 import fr.pizzeria.ihm.ListerPizzaOptionMenu;
@@ -42,7 +42,7 @@ public class PizzeriaAdminConsoleApp {
 		/** Boolean pour sortir de la boucle */
 		boolean out = false;
 		
-		IPizzaDAO dao = new PizzaDaoJDBC();
+		IPizzaDAO dao = new PizzaDaoJPA();
 		
 		AjouterPizzaOptionMenu add = new AjouterPizzaOptionMenu(choix, dao);
 		ModifierPizzaOptionMenu update = new ModifierPizzaOptionMenu(choix, dao);
@@ -85,7 +85,7 @@ public class PizzeriaAdminConsoleApp {
 			try{
 				options.get(rep).execute();
 				
-			}catch(StockageException e){
+			}catch(StockageException | NullPointerException e){
 				LOG.error(e.getMessage());
 			}
 		}
