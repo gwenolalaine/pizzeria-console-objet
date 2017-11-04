@@ -16,7 +16,6 @@ import fr.pizzeria.exception.StockageException;
 import fr.pizzeria.model.Categorie;
 import fr.pizzeria.model.Pizza;
 
-@Repository
 public class PizzaDaoJPA implements IPizzaDAO {
 
 	EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("pizzeria");

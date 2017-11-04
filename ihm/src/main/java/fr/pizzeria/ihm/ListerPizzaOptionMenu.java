@@ -19,7 +19,6 @@ public class ListerPizzaOptionMenu extends OptionMenu{
 	String lib;
 	
 	public ListerPizzaOptionMenu(){
-		this.dao = dao;
 		this.lib = "Lister les pizzas";
 	}
 	

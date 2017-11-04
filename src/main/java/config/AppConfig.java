@@ -7,10 +7,11 @@ import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @Configuration
-@ComponentScan("fr.pizzeria.dao")
-@ComponentScan("fr.pizzeria.ihm")
+@ComponentScan("fr.pizzeria.dao, fr.pizzeria.ihm, config")
+@EnableJpaRepositories("fr.pizzeria.repository")
 public class AppConfig {
 	
 	@Bean
